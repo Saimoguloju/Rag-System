@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+faiss-cpu
+numpy
+sentence-transformers
+PyPDF2
+dotenv
+mlflow
+watchdog
